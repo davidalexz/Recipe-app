@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.header-main {
+    background-color: #748a93;
+    margin-top: 15px;
+    border: 3px solid black;
+}
+
+h1.app-name {
+    margin-left: 5px;
+}
+
+.header-main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-btns > *,
+button.nav-login {
+    padding: 8px;
+    width: 90px;
+    margin: 22px;
+    font-size: 1rem;
+    cursor: pointer;
+    background: #74937d;
+    border-radius: 15px;
+    filter: drop-shadow(3px 4px 0px #000);
+    border: 2px solid #000;
+}
+
+button.nav-login {
+    margin-right: 10px;
+    background-color: #938c74;
+    font-size: 1.2rem;
+}
+
+button:active {
+    transform: translateY(2px);
+}
