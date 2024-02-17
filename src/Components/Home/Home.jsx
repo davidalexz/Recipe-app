@@ -27,12 +27,12 @@ export default function Home() {
                 <img
                     src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
                     alt="food"
-                    className="home-food"
+                    className="home-food first-img"
                 />
                 <img
                     src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
                     alt="food"
-                    className="home-food"
+                    className="home-food second-img"
                 />
             </div>
         </div>
