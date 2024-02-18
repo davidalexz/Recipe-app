@@ -2,10 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-    margin: 0;
-}
-
 .header-main {
     background-color: #748a93;
     margin-top: 15px;

@@ -23,7 +23,7 @@ export default function Home() {
                 <br />
                 <p>Recipes</p>
             </div>
-            <div className="presentation-imgs">
+            <div className="example_img">
                 <img
                     src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
                     alt="food"
